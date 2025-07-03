@@ -1,5 +1,5 @@
 # KPS-Series-PSU
-KPS High Power Series Power Supplies 
+Wanptek KPS High Power Series Power Supplies 
 
 ![image](https://github.com/user-attachments/assets/544a666c-0355-4a48-b6e3-dd6c796344ef)
 
